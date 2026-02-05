@@ -1,5 +1,8 @@
 # Método de Cronograma de Aprendizagem com IA usando NotebookLM
 
+![Capa do Projeto – Método de Cronograma com IA](assets/capa-infografico.png)
+
+
 ## 📌 Descrição do Projeto
 Método para criar cronogramas de estudo periodizados com IA usando o NotebookLM, baseado em evidências e princípios como Especificidade e Recuperação Ativa, com foco em eficiência, retenção e consistência.
 
