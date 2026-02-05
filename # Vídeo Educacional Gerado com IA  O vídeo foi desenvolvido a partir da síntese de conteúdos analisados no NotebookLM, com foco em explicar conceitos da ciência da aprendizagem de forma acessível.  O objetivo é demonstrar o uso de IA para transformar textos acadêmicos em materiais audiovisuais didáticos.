@@ -1,7 +1,16 @@
 # Vídeo Educacional Gerado com IA
 
-O vídeo foi desenvolvido a partir da síntese de conteúdos analisados no NotebookLM,
-com foco em explicar conceitos da ciência da aprendizagem de forma acessível.
+Este vídeo foi desenvolvido a partir de conteúdos analisados no NotebookLM,
+com posterior organização e roteiro gerados com apoio de IA.
 
-O objetivo é demonstrar o uso de IA para transformar textos acadêmicos
-em materiais audiovisuais didáticos.
+## Objetivo do Vídeo
+- Explicar conceitos da ciência da aprendizagem de forma audiovisual
+- Demonstrar a transformação de texto acadêmico em conteúdo didático
+- Evidenciar o uso de IA em pipeline multimodal (texto → vídeo)
+
+## Acesso ao Vídeo
+🎥 Link para visualização:
+https://drive.google.com/file/d/1oECV4Xmn-sJ1pF5KW0YrLYUFEjGpl-X4/view?usp=drive_link
+
+> O arquivo de vídeo não foi hospedado diretamente no GitHub devido ao tamanho,
+seguindo boas práticas de versionamento e distribuição de mídia.
