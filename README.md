@@ -1,6 +1,6 @@
 # Método de Cronograma de Aprendizagem com IA usando NotebookLM
 
-![Capa do Projeto – Método de Cronograma com IA](assets/capa-infografico.png)
+
 
 
 ## 📌 Descrição do Projeto
