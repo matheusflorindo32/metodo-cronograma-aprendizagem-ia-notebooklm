@@ -37,6 +37,21 @@ Criar cronogramas de estudo mais eficientes, realistas e personalizados, com foc
 - Aplicação prática em concursos, graduação e pós-graduação
 
 ---
+# Materiais Gerados com NotebookLM + Gamma App
+
+Os materiais desta pasta foram produzidos a partir de conteúdos gerados no NotebookLM,
+com posterior organização visual e editorial no Gamma App.
+
+## Pipeline de Produção
+1. Análise de artigos científicos e fontes educacionais no NotebookLM
+2. Síntese dos conceitos-chave (memória, repetição espaçada, recuperação ativa)
+3. Estruturação metodológica do conteúdo
+4. Geração do material final no Gamma App (PDF)
+
+## Objetivo
+Demonstrar como ferramentas de IA podem ser usadas de forma integrada
+para transformar conhecimento científico em materiais didáticos aplicáveis.
+
 
 ## 🚀 Diferencial
 O diferencial do projeto está no uso da IA não apenas como geradora de respostas, mas como ferramenta estratégica de organização do aprendizado, alinhada a princípios científicos e aplicada de forma prática.
